@@ -6,10 +6,10 @@
             "value": "samplevm"
         },
         "instanceCount": {
-            "value": null
+            "value": 1
         },
         "adminUsername": {
-            "value": null
+            "value": "admin"
         }
     }
 }
