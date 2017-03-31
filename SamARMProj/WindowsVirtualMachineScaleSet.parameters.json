@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "vmssName": {
-            "value": "samplevm"
+            "value": "samplevm1"
         },
         "instanceCount": {
             "value": 1
